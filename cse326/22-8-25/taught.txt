@@ -1,0 +1,5 @@
+types of heading
+word wrapping in vs code
+hr tag
+marquee tag
+inline styling on h1 tag
