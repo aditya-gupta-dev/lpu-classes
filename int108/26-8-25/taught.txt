@@ -1,0 +1,4 @@
+mcqs related to python 
+shorthand operators & statements in python 
+nonlocal keyword intro 
+async await intro 

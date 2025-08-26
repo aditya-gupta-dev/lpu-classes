@@ -1,1 +1,1 @@
-em tag,
+em dfn sup sub del ins strong big tag,
