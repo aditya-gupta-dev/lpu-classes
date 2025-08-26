@@ -1,5 +1,5 @@
 types of heading
 word wrapping in vs code
-hr tag
+hr, br tag
 marquee tag
 inline styling on h1 tag
