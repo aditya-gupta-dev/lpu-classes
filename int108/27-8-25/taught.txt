@@ -2,3 +2,5 @@ data types (numeric) => int, float, bool, complex
 sys package functions => .getsizeof
 type of variables 
 little discussion of memory management. 
+
+Given 3 tests. 
