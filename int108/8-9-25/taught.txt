@@ -1,0 +1,4 @@
+dictionary revision
+data conversion octal, hexadecimal, binary bases 
+int float type casting 
+practice 
